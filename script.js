@@ -5,3 +5,7 @@ function abrirCarta() {
   carta.classList.remove("escondido");
   botao.style.display = "none";
 }
+
+function voltarInicio() {
+  location.reload();
+}

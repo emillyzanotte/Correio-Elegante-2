@@ -55,3 +55,7 @@ button:hover {
 .escondido {
   display: none;
 }
+
+.voltar {
+  margin-top: 20px;
+}
